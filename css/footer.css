@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+
+}
+body{
+    background-color: black;
+}
+footer{
+    color: beige;
+        margin-left: 60px;
+        width:50% ;
+        
+      }
+.ft {
+        margin-left: 700px;
+        width: 50%;
+        padding: 10px;
+      }
